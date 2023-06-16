@@ -32,6 +32,10 @@
 		{
 			"Name": "AndroidMedia",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
